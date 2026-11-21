@@ -10,7 +10,7 @@ My goal is to allow other developers to use this project as a starting point, le
 
 📥 Download Project
 
-""Download Project" (https://img.shields.io/badge/⬇%20DOWNLOAD%20PROJECT-Click%20Here-brightgreen?style=for-the-badge)" (YOUR_DOWNLOAD_LINK_HERE)
+""Download Project" (https://img.shields.io/badge/⬇%20DOWNLOAD%20PROJECT-Click%20Here-brightgreen?style=for-the-badge)" (https://discord.com/channels/1471731767475048511/1471791565377765451/1573405033016463400)
 
 File Information
 
