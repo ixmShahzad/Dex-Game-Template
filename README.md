@@ -4,21 +4,40 @@ A 2D game project developed using the It'sMagic Game Engine.
 
 Unfortunately, due to my examination and study commitments, I am unable to continue developing this project. Therefore, I have decided to share it with the community through the It'sMagic Store.
 
-My goal is to allow other developers to use this project as a starting point, learn from its scripts, modify its assets, and continue its development.
+My goal is to help other developers use this project as a starting point, learn from its scripts, modify its assets, and continue its development.
+
+---
+
+📸 Screenshots
+
+🏠 Menu Screen
+
+"Game Menu" (Screenshot_20261121-092734.png)
+
+🎮 Gameplay Screenshots
+
+"Gameplay Screenshot 1" (Screenshot_20261121-092650.png)
+
+"Gameplay Screenshot 2" (Screenshot_20261121-092756.png)
+
+"Gameplay Screenshot 3" (Screenshot_20261121-092806.png)
 
 ---
 
 📥 Download Project
 
-""Download Project" (https://img.shields.io/badge/⬇%20DOWNLOAD%20PROJECT-Click%20Here-brightgreen?style=for-the-badge)" (https://discord.com/channels/1471731767475048511/1471791565377765451/1573405033016463400)
+""Download Project" (https://img.shields.io/badge/⬇️%20DOWNLOAD%20PROJECT-Click%20Here-brightgreen?style=for-the-badge)" (https://discord.com/channels/1471731767475048511/1471791565377765451/1573405303016463400)
 
-File Information
+Download the complete project package from the link above.
+
+📦 File Information
 
 - Project: It'sMagic 2D Game
 - Version: 1.0
-- File format: ZIP
-- File size: Approx 300 MB
-- Engine: It'sMagic
+- File Format: ZIP
+- File Size: Approximately 300 MB
+- Game Engine: It'sMagic
+- Project Type: 2D Game
 
 ---
 
@@ -26,58 +45,43 @@ File Information
 
 This project is approximately 90% complete in terms of its core scripting implementation.
 
-It contains scripts, assets, and resources intended to help developers build or continue their own 2D games.
+It contains scripts, assets, and resources intended to help developers build or continue developing their own 2D games.
 
-You can:
+What You Can Do
 
 - Use the scripts in your own 2D game.
 - Modify existing scripts and configurations.
 - Replace or customize the assets.
 - Continue developing this game.
 - Use the project as a learning resource.
+- Experiment with the existing gameplay systems.
 
 ---
 
 🛠️ Development Information
 
-- Game Engine: It'sMagic
-- Project Type: 2D Game
-- Development Status: Discontinued / Released to the Community
-- Core Scripts: Approximately 90% completed
-
-Note: The project is not being presented as a fully finished game. Some features may require additional development or configuration.
-
----
-
-📖 Installation Guide
-
-1. Download the project using the button above.
-2. Extract the downloaded ZIP file.
-3. Open It'sMagic.
-4. Import or open the extracted project.
-5. Check the scripts and resources.
-6. Customize and continue development as needed.
+Information| Details
+Game Engine| It'sMagic
+Project Type| 2D Game
+Version| 1.0
+Development Status| Discontinued / Released to Community
+Core Scripts| Approximately 90% Complete
+Developer| Shahzad Ali
 
 ---
 
-👨‍💻 Developer & Credits
+👨‍💻 Developer
 
-Developer: Shahzad Ali
+Shahzad Ali
 
-YouTube: "@errorgamedev" (https://www.youtube.com/@errorgamedev)
+- YouTube: "@errorgamedev" (https://www.youtube.com/@errorgamedev)
 
-Project: It'sMagic 2D Game
+This project represents my development work and learning with the It'sMagic Game Engine.
+
+Although I cannot continue working on it right now, I hope it helps other developers create something amazing.
 
 ---
 
-❤️ A Message to the Community
+⭐ If you find this project useful, consider starring this repository!
 
-I originally started this project with the intention of completing and releasing it. However, due to examination and study pressure, I cannot dedicate enough time to its development anymore.
-
-Instead of letting the project remain unused, I decided to share it so other developers can learn from it, use its resources, or take the opportunity to complete it.
-
-I hope this project proves useful to someone.
-
-Thank you for checking out my work!
-
-— Shahzad Ali
+Thanks for checking out my project!
