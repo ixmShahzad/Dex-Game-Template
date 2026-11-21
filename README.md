@@ -12,23 +12,25 @@ My goal is to help other developers use this project as a starting point, learn 
 
 🏠 Menu Screen
 
-"Game Menu" (Screenshot_20261121-092734.png)
+"Menu Screen" (./Screenshot_20261121-092734.png)
 
 🎮 Gameplay Screenshots
 
-"Gameplay Screenshot 1" (Screenshot_20261121-092650.png)
+"Gameplay Screenshot 1" (./Screenshot_20261121-092650.png)
 
-"Gameplay Screenshot 2" (Screenshot_20261121-092756.png)
+"Gameplay Screenshot 2" (./Screenshot_20261121-092756.png)
 
-"Gameplay Screenshot 3" (Screenshot_20261121-092806.png)
+"Gameplay Screenshot 3" (./Screenshot_20261121-092806.png)
 
 ---
 
 📥 Download Project
 
-""Download Project" (https://img.shields.io/badge/⬇️%20DOWNLOAD%20PROJECT-Click%20Here-brightgreen?style=for-the-badge)" (https://discord.com/channels/1471731767475048511/1471791565377765451/1573405303016463400)
+""Download Project" (https://img.shields.io/badge/⬇️_DOWNLOAD_PROJECT-Click_Here-brightgreen?style=for-the-badge)" (https://discord.com/channels/1471731767475048511/1471791565377765451/1573405303016463400)
 
-Download the complete project package from the link above.
+Click the button above to access the project download.
+
+---
 
 📦 File Information
 
@@ -82,6 +84,10 @@ Although I cannot continue working on it right now, I hope it helps other develo
 
 ---
 
-⭐ If you find this project useful, consider starring this repository!
+⭐ Support
+
+If you find this project useful, consider giving this repository a ⭐ Star!
+
+Your support is appreciated.
 
 Thanks for checking out my project!
